@@ -1,20 +1,22 @@
-Shougoºî¡¢neocomplcache-4.01¤Î¥½¡¼¥¹¤òÆÉ¤ó¤ÇÍı²ò¤ËÎå¤ß¤Ş¤¹¡£
+# USSR: Ujihisa's Source Script Reading
 
-<ul>
-<li/> ³«ºÅ¾ì½ê: Lingr Vim Room
-<li/> ³«ºÅÆü»ş(JST): 2009Ç¯12·î22Æü(²Ğ) 12:30pm~ (JST)
-<li/> ³«ºÅÆü»ş(PST): December 21, 2009 (Mon) 7:30pm~ (PST)
-<li/> »²²ÃÊıË¡: ¸½ÃÏ½¸¹ç
-<li/> É¬Í×¤Ê¤â¤Î: neocomplecache-4.01¥½¡¼¥¹°ì¼°
-</ul>
+Shougoä½œã€neocomplcache-4.01ã®ã‚½ãƒ¼ã‚¹ã‚’èª­ã‚“ã§ç†è§£ã«åŠ±ã¿ã¾ã™ã€‚
 
-»²¹Í»ñÎÁ:
-<ul>
-<li/> Hack #93: neocomplcache¤ò³ÈÄ¥¤¹¤ë¡¡Á°ÊÔ http://vim-users.jp/2009/10/hack93/
-<li/> Hack #89: ¼«Æ°Êä´°¤ò¤µ¤é¤Ë»È¤¤¤³¤Ê¤¹ http://vim-users.jp/2009/10/hack89/ 
-<li/> Hack #49: ¼«Æ°Êä´°¤ò³èÍÑ¤¹¤ë¡¡¸åÊÔ http://vim-users.jp/2009/07/hack-49/
-<li/> neocomplcache presentation file
-http://github.com/Shougo/neocomplcache/blob/master/presen/neocomplcache.txt
-</ul>
+- é–‹å‚¬å ´æ‰€: Lingr Vim Room
+- é–‹å‚¬æ—¥æ™‚(JST): 2009å¹´12æœˆ22æ—¥(ç«) 12:30pm~ (JST)
+- é–‹å‚¬æ—¥æ™‚(PST): December 21, 2009 (Mon) 7:30pm~ (PST)
+- å‚åŠ æ–¹æ³•: ç¾åœ°é›†åˆ
+- å¿…è¦ãªã‚‚ã®: neocomplecache-4.01ã‚½ãƒ¼ã‚¹ä¸€å¼
+
+## å‚è€ƒè³‡æ–™
+
+- [Hack #93: neocomplcacheã‚’æ‹¡å¼µã™ã‚‹ã€€å‰ç·¨](http://vim-users.jp/2009/10/hack93/)
+- [Hack #89: è‡ªå‹•è£œå®Œã‚’ã•ã‚‰ã«ä½¿ã„ã“ãªã™](http://vim-users.jp/2009/10/hack89/)
+- [Hack #49: è‡ªå‹•è£œå®Œã‚’æ´»ç”¨ã™ã‚‹ã€€å¾Œç·¨](http://vim-users.jp/2009/07/hack-49/)
+- [neocomplcache presentation file](http://github.com/Shougo/neocomplcache/blob/master/presen/neocomplcache.txt)
+
+## å‚åŠ ç™»éŒ²
+
+[ATND](http://atnd.org/events/2524)
 
 # vim: set filetype=markdown :
