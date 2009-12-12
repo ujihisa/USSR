@@ -17,6 +17,6 @@ Shougo作、neocomplcache-4.01のソースを読んで理解に励みます。
 
 ## 参加登録
 
-[ATND](http://atnd.org/events/2524)
+このレポジトリをwatchするか [ATND](http://atnd.org/events/2524) を使用してください。
 
 # vim: set filetype=markdown :
