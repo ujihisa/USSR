@@ -1,12 +1,12 @@
 # USSR: Ujihisa's Source Script Reading
 
-Shougo作、neocomplcache-4.01のソースを読んで理解に励みます。
+Shougo作、neocomplcache-4.03のソースを読んで理解に励みます。
 
 * 開催場所: [Vim-users.jp@lingr](http://lingr.com/vim) (新規登録は[こちら](http://lingr.com/user/signup?letmein=vim))
 * 開催日時(JST): 2009年12月22日(火) 12:30pm~ (JST)
 * 開催日時(PST): December 21, 2009 (Mon) 7:30pm~ (PST)
 * 参加方法: 現地集合
-* 必要なもの: neocomplecache-4.01ソース一式
+* 必要なもの: neocomplecache-4.03ソース一式
 
 ## 参考資料
 
